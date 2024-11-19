@@ -1,2 +1,3 @@
-# 2024-bnryan-neutrino-paper
-Data repository for Brianna's first neutrino spectrum paper
+# 2024-bnryan-radiological-materials-trafficking
+Data repository for Brianna's "CEvNS in Superconductors and its Application for Finding
+Trafficked Radiological Materials" paper.
