@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+@software{rad_mat_trafficking,
+  author = {B. N. Ryan},
+  month = {March},
+  title = {Radiological Material Trafficking Code},
+  url = {https://github.com/shortlab/2024-bnryan-radiological-material-trafficking/new/main},
+  version = {1.0.0},
+  year = {2025}
+}
