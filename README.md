@@ -2,6 +2,8 @@
 # 2024-bnryan-radiological-material-trafficking
 Data repository for "Finding Trafficked Radiological Materials via Coherent Elastic Neutrino-Nucleus Scattering".  The files in this repository can be seperated into three categories: neutrino spectra, detector material comparison, and material trafficking work. All of the methodology behind this code can be found in B. Ryan et al 2025 [1] and [B. Ryan 2024](https://dspace.mit.edu/handle/1721.1/155639) [2].
 
+Author: B. N. Ryan (bnryan@mit.edu)
+
 ## Table of Contents
 
 1. Neutrino Spectra
